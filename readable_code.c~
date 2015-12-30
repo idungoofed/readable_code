@@ -1,0 +1,6 @@
+#include <stdlib.h>
+#include <stdio.h>
+
+int main() {
+  char* fname = scanf("Enter file name: %s");
+  
